@@ -7,8 +7,8 @@
 	  <a-scene ar
 		arjs="sourceType: webcam; debugUIEnabled: false;"
 		>
-		<a-box width="50" height="5.0" depth="5.0" position="-0.25 0.125 -0.75" rotation="0 45 0" color="#4CC3D9"
-		gps-entity-place="latitude: 54.0; longitude: -1.0;"
+		<a-box width="50" height="5.0" depth="1.0" position="-0.25 0.125 -0.75" rotation="0 45 0" color="#4CC6D9"
+		gps-entity-place="latitude: 53.3; longitude: -1.3;"
 		></a-box>
 		<a-camera gps-camera rotation-reader> </a-camera>
 	  </a-scene>
