@@ -4,9 +4,7 @@
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
 
 	<body>
-	  <a-scene ar
-		arjs="sourceType: webcam; debugUIEnabled: false;"
-		>
+	  <a-scene ar>
 		<a-box width="50" height="5.0" depth="1.0" position="-0.25 0.125 -0.75" rotation="0 45 0" color="#4CC6D9"
 		gps-entity-place="latitude: 53.3; longitude: -1.3;"
 		></a-box>
